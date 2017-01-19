@@ -1,5 +1,4 @@
-## particles.js
-
+## particles.js粒子动画插件
 ### A lightweight JavaScript library for creating particles.
 
 ------------------------------
